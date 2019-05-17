@@ -9,6 +9,8 @@ CuraEngine
 	https://github.com/repetier
   
 Windows用のビルドにはVisual Studio ではだめで、MinGW (Windows上でUNIXのような環境を実現するもの)が必要  
+
+ビルドには、他に stb というモジュールも必要。https://github.com/nothings/stb から取得する。ビルド方法の詳細は次を参照：https://qiita.com/yasutosi_n/private/1150034f1f7f6b7b6655
   
 ***
 
