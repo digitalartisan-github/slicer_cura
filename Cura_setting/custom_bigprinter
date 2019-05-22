@@ -1,0 +1,15 @@
+[general]
+version = 4
+name = BigPrinter
+definition = fdmprinter
+
+[metadata]
+type = quality_changes
+setting_version = 5
+quality_type = normal
+
+[values]
+adhesion_type = none
+layer_height = 2
+layer_height_0 = 2
+

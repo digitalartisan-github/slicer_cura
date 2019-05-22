@@ -1,0 +1,13 @@
+[general]
+version = 4
+name = BigPrinter
+definition = fdmprinter
+
+[metadata]
+type = quality_changes
+setting_version = 5
+quality_type = normal
+position = 5
+
+[values]
+
